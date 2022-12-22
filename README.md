@@ -14,3 +14,8 @@ Application
 
 ** RandomForestModel **
 Six RadomForest Model
+
+
+Run qoute.py for qoute page 
+Run Login.py for Login page
+(The MongoDB need add current IP Address. For App testing, please comment line 8, 9, 10, 167 to run without connecting MongoDB.)
